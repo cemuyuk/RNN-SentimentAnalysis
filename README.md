@@ -6,3 +6,5 @@ TUM Summer Semester 2022
 Introduction to Deep Learning
 
 Text classification using RNN and LSTM.
+
+The content is only for demonstration purposes as some utility scripts are not included in the repo.
