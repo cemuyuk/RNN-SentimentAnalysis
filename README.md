@@ -7,4 +7,4 @@ Introduction to Deep Learning
 
 Text classification using RNN and LSTM.
 
-The content is only for demonstration purposes as some utility scripts are not included in the repo.
+p.s. The content is only for demonstration purposes as some utility scripts are not included in the repo.
