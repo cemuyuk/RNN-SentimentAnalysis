@@ -1,5 +1,5 @@
 # RNN-SentimentAnalysis
-Sentiment Analysis on IMDB Data.
+Sentiment Analysis on IMDB Data
 
 TUM Summer Semester 2022
 
